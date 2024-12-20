@@ -1,0 +1,24 @@
+{
+  "originHash" : "5da9191dbd129d33699e74470557562c048a4985926e65a13e852b71d6d67009",
+  "pins" : [
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "41982a3656a71c768319979febd796c6fd111d5c",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "texttable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ordo-one/TextTable",
+      "state" : {
+        "revision" : "a27a07300cf4ae322e0079ca0a475c5583dd575f",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
